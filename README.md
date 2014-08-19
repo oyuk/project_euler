@@ -1,5 +1,4 @@
 
-
-#解いたproject_eulerのコード
+#project_euler
 
 解いて無いものやネット上にある回答を使っている物もあり
